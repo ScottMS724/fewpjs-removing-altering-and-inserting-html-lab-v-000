@@ -1,1 +1,1 @@
-main.removeChild(document.querySelector('main'))
+main.removeChild(document.getElementById('main')); 
