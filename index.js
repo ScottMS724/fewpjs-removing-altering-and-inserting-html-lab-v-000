@@ -1,1 +1,1 @@
-document.getElementById('main');
+main.remove();
