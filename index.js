@@ -4,4 +4,4 @@ let newHeader = document.createElement('h1');
 
 newHeader.id = "victory";
 
-newHeader.innerHTTML = "Scott is the champion";
+newHeader.innerHTML = "Scott is the champion";
