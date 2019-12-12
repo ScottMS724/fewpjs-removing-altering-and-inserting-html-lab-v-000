@@ -4,4 +4,4 @@ let newHeader = document.createElement('h1');
 
 newHeader.setAttribute("id", "victory");
 
-newHeader.setInnerHTTML
+newHeader.InnerHTTML = "Scott is the champion"
